@@ -1,0 +1,95 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+
+
+body{
+    background-color: #ebebeb ;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.logo{
+    background: cover;
+}
+
+.imagen{
+    display: block;
+}
+
+.informacion{
+    margin: 10px;
+    border-color: #ebebeb;
+    border-width: 45px;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #39b54a;
+    background-color: #FFF;
+    border-radius: 50%;
+    position: relative;
+}
+
+.titulares{
+    font-size: 24px;
+}
+
+.precio{
+    font-size: 18px;
+}
+
+.descuentos{
+ font-size: 16px;
+}
+
+.descripciones{
+    font-size: 16px;
+   }
+
+.iconos{
+    font-size: 15em;
+}
+
+.burger-menu{
+    text-align: center;
+    background-color:#0044aa ;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 6px;
+    height: 35px;
+    width: 35px;
+    padding: 4px;
+    margin: auto;
+}
+
+
+header{
+    background-color: #eac926;
+}
+
+
+.navbar li{
+    list-style: none;
+}
+
+main{
+    width: 90%;
+    line-height: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+
+footer i.fa-solid {
+    font-size: 2em;
+    color: blue;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin: 8px;
+}
